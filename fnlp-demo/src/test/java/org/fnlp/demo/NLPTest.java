@@ -35,7 +35,7 @@ public class NLPTest {
 		KeyWordExtraction.main(null);
 		NamedEntityRecognition.main(null);
 		TimeExpressionRecognition.main(null);
-//		AnaphoraResolution.main(null);
+		AnaphoraResolution.main(null);
 		
 	}
 
